@@ -1,2 +1,1 @@
-# nextjs-superherocars
-A fictional collection of superhero cars for sale, created using Next.js
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
