@@ -1,11 +1,16 @@
 ---
-title: 'Two Forms of Pre-rendering'
-date: '2020-01-01'
+title: 'Turtle Van'
+date: '2020-06-15'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+Evolved from a run of the mill people carrier, this van has several modifications included.
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+- **Pontoons** so that the vehicle can be transformed into a boat when needed.
+- **Submarine** capabilities have been enabled for Arctic temperatures.
+- **Ramps** formed from single panel doors.
+- **Dual CB antenna machine guns** that are roof mounted for 360 degree range.
+- **Blaster seat** for targeted battle with enemies.
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+Importantly, this larger hero vehicle lets you **choose** which modifications to use for each crime fighting situation. Number of passengers accommodated is quite large. Vehicle has been detailed, and all pizza smells removed.
+
+Interested parties are to direct inquiries to Donatello.

@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>Looking for a car fit for a superhero? You have come to the right place! Our site only features vehicles with unusual capabilities, to help you in the fight against evil.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>For Sale</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
