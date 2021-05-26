@@ -8,7 +8,7 @@ Evolved from a run of the mill people carrier, this van has several modification
 - **Pontoons** so that the vehicle can be transformed into a boat when needed.
 - **Submarine** capabilities have been enabled for Arctic temperatures.
 - **Ramps** formed from single panel doors.
-- **Missles** that are roof mounted for 360 degree range.
+- **Dual CB antenna machine guns** that are roof mounted for 360 degree range.
 - **Blaster seat** for targeted battle with enemies.
 
 Importantly, this larger hero vehicle lets you **choose** which modifications to use for each crime fighting situation. Number of passengers accommodated is quite large. Vehicle has been detailed, and all pizza smells removed.
