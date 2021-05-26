@@ -4,7 +4,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Super Cars for Sale'
+const name = 'Hero Vehicles for Sale'
 export const siteTitle = 'Super Cars for Sale'
 
 export default function Layout({ children, home }) {
@@ -26,8 +26,8 @@ export default function Layout({ children, home }) {
               priority
               src="/images/profile.jpg"
               className={utilStyles.borderCircle}
-              height={144}
-              width={144}
+              height={244}
+              width={344}
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
