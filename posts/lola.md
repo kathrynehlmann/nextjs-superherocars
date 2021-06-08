@@ -2,6 +2,7 @@
 title: 'L.O.L.A. (Levitating Over Land Automobile)'
 date: '2020-01-02'
 ---
+![Alt text](/images/profile.jpg)
 
 **Lola,** is a cherry-red **1962 Chevrolet Corvette** formerly belonging to S.H.I.E.L.D. Agent Phil Coulson.
 
