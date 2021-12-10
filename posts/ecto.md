@@ -1,5 +1,5 @@
 ---
-title: 'Recent Barn Find: Ectomobile'
+title: 'Barn Find: Ectomobile'
 date: '2021-10-19'
 ---
 
